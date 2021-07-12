@@ -8,6 +8,9 @@ Resources:
 Module notes were helpful along with the examples in class. I used this as guidance throughout the assignment along with the following sources:
 
 https://www.w3schools.com/js/js_cookies.asp
+
 https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage
+
 https://developer.mozilla.org/en-US/docs/Web/API/Document/cookie
+
 https://www.youtube.com/watch?v=rVyTjFofok0
